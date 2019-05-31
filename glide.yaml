@@ -1,0 +1,3 @@
+package: github.com/fochoac/go-ws2
+import:
+- package: github.com/gin-gonic/gin
